@@ -7,5 +7,5 @@ CurveletDenoising.m - script that takes parameters for stochastic and coherent d
 MedianFilter.m - Script that performs median filtering as a preprocessing step. 
 
 Inventory of items:  
-EQ_raw.mat - MAT file of a DAS recording of an earthquake used in the example script. 
+EQ_raw.mat - MAT file of a DAS recording of an earthquake used in the example script.  
 Noise_Matrix.mat - MAT file of a quiet DAS record section from the same array that recorded the earthquake in EQ_raw.mat. 
