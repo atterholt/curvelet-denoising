@@ -1,5 +1,10 @@
 % Script to get people acquainted with curvelet denoising
 % James Atterholt Caltech 2021
+
+% If you use this work, please use the reference:
+% Atterholt, J., Zhan, Z., Shen, Z., Li, Z., (Under Review). A unified 
+% wavefield-partitioning approach for distributed acoustic sensing.
+
 clear
 
 % Add path to the CurveLab Toolbox (put your own path in here). You can
