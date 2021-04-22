@@ -2,8 +2,9 @@
 % James Atterholt Caltech 2021
 
 % If you use this work, please use the reference:
-% Atterholt, J., Zhan, Z., Shen, Z., Li, Z., (Under Review). A unified 
+% Atterholt, J., Zhan, Z., Shen, Z., Li, Z., A unified 
 % wavefield-partitioning approach for distributed acoustic sensing.
+% Under consideration for Geophysical Journal International
 
 clear
 
